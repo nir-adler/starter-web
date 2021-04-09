@@ -2,9 +2,8 @@
 
 this is start of project
 
-# Introduction
+## Introduction
 
-this is introduction area
 
-## Deployment
+### Deployment
 
