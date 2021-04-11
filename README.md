@@ -9,3 +9,7 @@ this is deployment area
 ### info
 
 this is info area
+
+#### copyright
+
+notice
