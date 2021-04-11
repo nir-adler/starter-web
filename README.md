@@ -12,4 +12,4 @@ this is info area
 
 #### copyright
 
-notice
+notice some text
