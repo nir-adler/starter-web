@@ -3,7 +3,7 @@
 # this is some text
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    i leav in israel
 
 # THANKS
 
