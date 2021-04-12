@@ -1,7 +1,6 @@
 # robotstxt.org/
 
 User-agent: *
+not-master
 
-master
-
-master2
+not-master2
